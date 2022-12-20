@@ -15,3 +15,7 @@ We do our best to produce usable products, but we accept no liability whatsoever
 # Commercial Use
 
 Everything here is licenced as [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0) - essentially Public Domain. That means if you want to build and sell these gadgets then feel free! An acknowledgement would be nice but we leave that to your own conscience.
+
+# Get involved!
+
+If you'd like to help out please raise an [issue](https://github.com/gadgetproject/.github/issues) asking for an invitation to join Gadget Project.
