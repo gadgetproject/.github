@@ -20,4 +20,4 @@ Everything here is licenced as [Creative Commons Zero](https://creativecommons.o
 
 If you'd like to help out please raise an [issue](https://github.com/gadgetproject/.github/issues/new/choose) asking for an invitation to join Gadget Project.
 
-<img src="../Gadget%20Project%20logo.png"/>
+<img src="https://github.com/gadgetproject/.github/blob/main/Gadget%20Project%20logo.png"/>
